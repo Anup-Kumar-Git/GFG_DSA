@@ -30,5 +30,7 @@ class Solution {
             i++;
             j--;
         }
+        
+        // next_permutation(arr.begin(),arr.end());
     }
 };
